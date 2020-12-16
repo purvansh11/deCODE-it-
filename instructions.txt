@@ -1,0 +1,2 @@
+Images - Binary Trees Image used in problem.md file
+pre_loaded_code.cpp - To be pre loaded into the user's editor to allow user to write the algorithm in a function rather than implementing whole Binary Tree from scratch
